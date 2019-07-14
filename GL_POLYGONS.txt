@@ -1,0 +1,7 @@
+glBegin(GL_POLYGON);
+glVertex3f(0,1,1);
+glVertex3f(1,.75,1);
+glVertex3f(.75,0,1);
+glVertex3f(-.75,0,1);
+glVertex3f(-1,.75,1);
+glEnd();	
